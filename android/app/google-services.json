@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641288188364",
+    "project_id": "r-talks-f4054",
+    "storage_bucket": "r-talks-f4054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641288188364:android:e0fcea01412fb2ec4fad69",
+        "android_client_info": {
+          "package_name": "com.roktim.rtalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641288188364-1l7es5fh6gbrrsmamv6uocm2dl7ivg6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlBMPoQ26WGT4DL7BI6kgbXr5nxouOHB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641288188364-1l7es5fh6gbrrsmamv6uocm2dl7ivg6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
